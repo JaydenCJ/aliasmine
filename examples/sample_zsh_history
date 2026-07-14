@@ -1,0 +1,1694 @@
+: 1735690262:0;git diff --staged
+: 1735690436:1;git log --oneline --graph --decorate
+: 1735690525:1;kubectl get pods -n staging
+: 1735690997:0;git status
+: 1735691832:0;npm run dev
+: 1735692457:0;npm run build
+: 1735692837:2;ssh deploy@example.test
+: 1735692932:0;git status
+: 1735693424:1;npm run dev
+: 1735693482:0;git push origin main
+: 1735693879:0;docker compose up -d
+: 1735693977:0;git push origin main
+: 1735694626:2;npm run test
+: 1735695165:1;pwd
+: 1735695658:2;git commit -m "add tests"
+: 1735696245:0;git status
+: 1735696725:2;git commit -m "fix typo"
+: 1735697412:0;git push origin main
+: 1735697761:2;npm run build
+: 1735698268:2;git commit -m "handle edge case"
+: 1735698442:0;cargo test --workspace
+: 1735698923:0;cd ~/src
+: 1735699773:0;npm run dev
+: 1735700524:0;cargo test --workspace
+: 1735701060:0;ls
+: 1735701120:0;git status
+: 1735701864:1;docker compose up -d
+: 1735702333:2;man rsync
+: 1735702888:2;git status
+: 1735703070:0;du -sh .
+: 1735703471:0;git status
+: 1735703887:1;terraform apply -auto-approve
+: 1735704700:0;docker compose up -d
+: 1735705415:2;git commit -m "refactor parser"
+: 1735705488:0;npm run build
+: 1735705575:0;git status
+: 1735705691:2;terraform plan
+: 1735706405:1;git status
+: 1735706715:0;kubectl get pods -n staging
+: 1735707476:2;git push origin main
+: 1735707649:0;man rsync
+: 1735707752:2;npm run dev
+: 1735708451:0;npm run dev
+: 1735708829:0;date
+: 1735709520:1;terraform plan
+: 1735709672:2;make -j8
+: 1735710417:0;docker compose logs -f api
+: 1735710754:2;npm run test
+: 1735711159:0;git pull --rebase
+: 1735712011:0;cargo test --workspace
+: 1735712717:2;git push origin main
+: 1735712832:1;git status
+: 1735713372:0;git log --oneline --graph --decorate
+: 1735713410:0;history
+: 1735713746:0;git status
+: 1735713985:0;git diff --staged
+: 1735714789:1;docker compose logs -f api
+: 1735715005:0;uname -a
+: 1735715165:0;docker compose up -d
+: 1735715264:0;curl -s http://127.0.0.1:8080/healthz
+: 1735716148:0;git status
+: 1735716687:2;git status
+: 1735717562:2;git commit -m "add tests"
+: 1735717620:0;git status
+: 1735718424:2;git push origin main
+: 1735718578:2;kubectl get pods -n staging
+: 1735718983:0;docker compose up -d
+: 1735719169:0;git commit -m "fix ci"
+: 1735720040:2;curl -s http://127.0.0.1:8080/healthz
+: 1735720888:0;npm run dev
+: 1735721646:1;git status
+: 1735721710:1;git status
+: 1735722103:0;npm run dev
+: 1735722577:2;npm run dev
+: 1735722888:1;pwd
+: 1735723147:2;git commit -m "fix ci"
+: 1735723411:0;git diff --staged
+: 1735724259:1;kubectl logs -f deploy/api -n staging
+: 1735725134:0;git status
+: 1735725530:2;git status
+: 1735726001:1;git commit -m "update deps"
+: 1735726808:0;terraform plan
+: 1735727624:1;vim notes.md
+: 1735728158:2;cargo test --workspace
+: 1735728606:0;date
+: 1735729462:0;git pull --rebase
+: 1735730302:2;kubectl get pods -n staging
+: 1735730463:0;kubectl logs -f deploy/api -n staging
+: 1735730536:1;git push origin main
+: 1735730936:2;git status
+: 1735731061:2;cargo test --workspace
+: 1735731952:0;git status
+: 1735732263:0;docker compose up -d
+: 1735733064:0;kubectl get pods -n staging
+: 1735733363:1;git status
+: 1735733908:0;git status
+: 1735734778:1;kubectl get pods -n staging
+: 1735734891:0;git diff --staged
+: 1735735747:1;git push origin main
+: 1735736124:0;git log --oneline --graph --decorate
+: 1735736568:0;npm run build
+: 1735736993:2;kubectl get pods -n staging
+: 1735737395:0;git commit -m "add tests"
+: 1735737810:0;git log --oneline --graph --decorate
+: 1735738213:0;git commit -m "docs"
+: 1735738261:0;git status
+: 1735738382:0;docker compose up -d
+: 1735739212:0;npm run dev
+: 1735739372:0;echo $PATH
+: 1735739685:1;kubectl get pods -n staging
+: 1735740417:0;cargo test --workspace
+: 1735741214:1;git push origin main
+: 1735741693:2;git status
+: 1735741718:0;clear
+: 1735741757:0;kubectl logs -f deploy/api -n staging
+: 1735741997:0;make -j8
+: 1735742578:2;npm run dev
+: 1735743138:1;git diff --staged
+: 1735743271:0;docker compose logs -f api
+: 1735743534:0;git status
+: 1735743678:0;npm run dev
+: 1735743942:1;git log --oneline --graph --decorate
+: 1735744616:2;git pull --rebase
+: 1735745104:0;clear
+: 1735745237:1;git status
+: 1735745868:2;git pull --rebase
+: 1735745904:2;docker compose logs -f api
+: 1735746512:0;npm run dev
+: 1735747267:0;npm run build
+: 1735747585:1;make -j8
+: 1735747606:2;true
+: 1735747987:0;docker compose up -d
+: 1735748591:1;npm run dev
+: 1735748802:0;npm run dev
+: 1735749358:0;git status
+: 1735749447:2;git log --oneline --graph --decorate
+: 1735750024:2;man rsync
+: 1735750849:2;git status
+: 1735751436:0;git push origin main
+: 1735751855:1;git commit -m "fix ci"
+: 1735751919:1;npm run build
+: 1735752321:0;git status
+: 1735753106:0;git status
+: 1735753491:0;npm run test
+: 1735753864:0;true
+: 1735754634:0;git push origin main
+: 1735755444:2;npm run build
+: 1735756216:0;npm run dev
+: 1735756372:0;terraform plan
+: 1735756752:2;docker compose up -d
+: 1735757118:0;git diff --staged
+: 1735757988:1;npm run test
+: 1735758720:1;cargo test --workspace
+: 1735759386:0;git status
+: 1735760236:0;top
+: 1735760320:1;uname -a
+: 1735760377:0;ls
+: 1735760603:0;git status
+: 1735761433:0;git push origin main
+: 1735761495:0;history
+: 1735761832:2;python3 -m http.server 8080
+: 1735762259:2;clear
+: 1735762763:0;git diff --staged
+: 1735762820:0;du -sh .
+: 1735763132:0;git status
+: 1735763951:0;git status
+: 1735764642:0;git pull --rebase
+: 1735764941:0;npm run build
+: 1735765779:0;npm run test
+: 1735766246:1;npm run dev
+: 1735767027:1;git status
+: 1735767442:0;npm run test
+: 1735767653:1;git pull --rebase
+: 1735768381:1;cd ..
+: 1735768777:2;kubectl get pods -n staging
+: 1735769070:0;git pull --rebase
+: 1735769834:1;npm run dev
+: 1735769934:1;git status
+: 1735770570:0;npm run test
+: 1735771148:0;git status
+: 1735771496:0;npm run dev
+: 1735771597:0;npm run dev
+: 1735772293:0;terraform plan
+: 1735772626:1;kubectl logs -f deploy/api -n staging
+: 1735773263:1;git pull --rebase
+: 1735773453:1;git diff --staged
+: 1735773832:1;git log --oneline --graph --decorate
+: 1735773895:0;curl -s http://127.0.0.1:8080/healthz
+: 1735774544:1;npm run dev
+: 1735774845:0;git diff --staged
+: 1735774941:1;npm run dev
+: 1735775333:2;git status
+: 1735776173:0;make -j8
+: 1735776224:0;git commit -m "bump version"
+: 1735777113:2;git push origin main
+: 1735777827:1;make -j8
+: 1735777882:0;git push origin main
+: 1735777970:0;terraform plan
+: 1735778787:0;git push origin main
+: 1735779177:1;env | sort
+: 1735779777:0;git diff --staged
+: 1735780416:0;cd ~/src
+: 1735781131:1;git commit -m "update deps"
+: 1735781530:0;kubectl logs -f deploy/api -n staging
+: 1735782004:0;du -sh .
+: 1735782611:0;git diff --staged
+: 1735783173:0;date
+: 1735783600:0;git status
+: 1735784285:0;ping 127.0.0.1
+: 1735784560:0;git status
+: 1735784606:0;du -sh .
+: 1735785137:2;git log --oneline --graph --decorate
+: 1735785553:2;git push origin main
+: 1735785693:0;git diff --staged
+: 1735786506:0;git status
+: 1735787246:1;git status
+: 1735787485:2;git push origin main
+: 1735787797:1;git pull --rebase
+: 1735788021:0;git push origin main
+: 1735788179:0;history
+: 1735788661:0;make -j8
+: 1735789411:1;npm run dev
+: 1735789520:0;npm run build
+: 1735790223:0;git pull --rebase
+: 1735790969:0;man rsync
+: 1735791552:2;git status
+: 1735791869:0;npm run dev
+: 1735792760:0;npm run dev
+: 1735793508:0;make -j8
+: 1735794340:0;kubectl get pods -n staging
+: 1735794880:0;kubectl logs -f deploy/api -n staging
+: 1735795024:0;docker compose up -d
+: 1735795855:0;npm run test
+: 1735796117:1;python3 -m http.server 8080
+: 1735796163:0;npm run build
+: 1735796750:2;clear
+: 1735797147:1;git status
+: 1735797989:2;npm run build
+: 1735798141:2;terraform apply -auto-approve
+: 1735798249:0;env | sort
+: 1735798585:1;date
+: 1735799339:1;git status
+: 1735799897:1;cargo test --workspace
+: 1735800704:1;git pull --rebase
+: 1735801567:2;docker compose up -d
+: 1735801662:0;git status
+: 1735802006:0;npm run dev
+: 1735802486:1;git push origin main
+: 1735803202:2;git push origin main
+: 1735803574:0;docker compose up -d
+: 1735804442:2;git commit -m "update deps"
+: 1735805117:2;git pull --rebase
+: 1735805323:0;kubectl get pods -n staging
+: 1735805786:2;clear
+: 1735805862:0;git status
+: 1735806412:0;npm run build
+: 1735806743:0;kubectl logs -f deploy/api -n staging
+: 1735806928:0;kubectl get pods -n staging
+: 1735807674:0;date
+: 1735808048:2;git status
+: 1735808358:0;docker compose up -d
+: 1735808634:0;git status
+: 1735809304:2;systemctl --user restart syncthing
+: 1735809605:0;git commit -m "fix ci"
+: 1735810265:0;git push origin main
+: 1735810914:2;git status
+: 1735811029:2;git log --oneline --graph --decorate
+: 1735811705:0;npm run build
+: 1735812331:2;npm run build
+: 1735812508:0;npm run dev
+: 1735813202:2;docker compose logs -f api
+: 1735813959:2;git diff --staged
+: 1735814324:2;make -j8
+: 1735814386:0;git status
+: 1735814489:0;npm run test
+: 1735815165:2;git push origin main
+: 1735815456:0;git status
+: 1735816261:2;git status
+: 1735816707:2;git status
+: 1735817381:0;clear
+: 1735817910:2;npm run dev
+: 1735818226:0;git status
+: 1735818740:0;git status
+: 1735819584:1;git diff --staged
+: 1735819908:1;git pull --rebase
+: 1735820002:0;git pull --rebase
+: 1735820183:1;git push origin main
+: 1735820628:1;npm run test
+: 1735821123:0;true
+: 1735821491:2;systemctl --user restart syncthing
+: 1735821658:0;terraform plan
+: 1735822413:0;terraform plan
+: 1735823184:0;git push origin main
+: 1735823612:0;git commit -m "refactor parser"
+: 1735824410:0;git status
+: 1735824957:2;docker compose up -d
+: 1735825085:0;npm run dev
+: 1735825352:1;man rsync
+: 1735825497:0;git status
+: 1735825977:0;docker compose logs -f api
+: 1735826141:0;kubectl logs -f deploy/api -n staging
+: 1735826212:0;man rsync
+: 1735826625:2;docker compose logs -f api
+: 1735827073:0;npm run build
+: 1735827256:0;git status
+: 1735827867:0;npm run build
+: 1735828081:0;npm run build
+: 1735828611:2;git commit -m "docs"
+: 1735829109:1;git diff --staged
+: 1735829444:1;git pull --rebase
+: 1735829487:0;ls -la
+: 1735829909:2;npm run test
+: 1735830397:0;kubectl logs -f deploy/api -n staging
+: 1735830637:2;clear
+: 1735831018:0;git pull --rebase
+: 1735831089:0;git commit -m "fix typo"
+: 1735831615:2;git status
+: 1735832498:1;kubectl get pods -n staging
+: 1735832810:2;cd ~/src
+: 1735832838:0;npm run dev
+: 1735833299:0;git status
+: 1735833589:0;python3 -m http.server 8080
+: 1735834391:1;make -j8
+: 1735834785:0;git push origin main
+: 1735835215:0;kubectl get pods -n staging
+: 1735835818:2;kubectl get pods -n staging
+: 1735836037:0;pwd
+: 1735836623:0;cargo test --workspace
+: 1735836718:1;git status
+: 1735837254:1;git status
+: 1735838056:2;git push origin main
+: 1735838362:2;make -j8
+: 1735839078:2;git log --oneline --graph --decorate
+: 1735839219:0;ls
+: 1735839338:1;git status
+: 1735839740:0;git pull --rebase
+: 1735840331:0;ssh deploy@example.test
+: 1735841124:0;git status
+: 1735841347:2;git commit -m "handle edge case"
+: 1735841888:1;make -j8
+: 1735842420:0;git pull --rebase
+: 1735842486:0;git status
+: 1735842646:0;npm run dev
+: 1735843489:1;kubectl get pods -n staging
+: 1735844040:1;git pull --rebase
+: 1735844212:2;git diff --staged
+: 1735844759:0;git status
+: 1735845114:2;env | sort
+: 1735845460:0;docker compose up -d
+: 1735845882:2;docker compose logs -f api
+: 1735846659:0;vim notes.md
+: 1735847286:0;git status
+: 1735847825:2;npm run test
+: 1735848390:1;make -j8
+: 1735849135:2;clear
+: 1735849461:1;ping 127.0.0.1
+: 1735850316:0;python3 -m http.server 8080
+: 1735850713:0;env | sort
+: 1735851422:0;curl -s http://127.0.0.1:8080/healthz
+: 1735851868:2;docker compose up -d
+: 1735852203:0;git diff --staged
+: 1735852834:1;npm run test
+: 1735853125:2;npm run dev
+: 1735853736:0;git status
+: 1735854494:0;npm run dev
+: 1735855111:1;git status
+: 1735855305:2;npm run build
+: 1735855969:2;npm run test
+: 1735856782:1;git commit -m "bump version"
+: 1735856953:0;git log --oneline --graph --decorate
+: 1735857005:2;npm run test
+: 1735857742:0;git status
+: 1735857957:0;git commit -m "update deps"
+: 1735858428:0;ping 127.0.0.1
+: 1735858876:0;curl -s http://127.0.0.1:8080/healthz
+: 1735859318:0;git status
+: 1735859758:2;git log --oneline --graph --decorate
+: 1735860571:2;git pull --rebase
+: 1735861073:0;ssh deploy@example.test
+: 1735861815:0;npm run test
+: 1735862366:0;du -sh .
+: 1735862960:0;npm run test
+: 1735863658:1;npm run build
+: 1735864216:1;top
+: 1735864557:0;docker compose logs -f api
+: 1735865047:2;ssh deploy@example.test
+: 1735865417:2;du -sh .
+: 1735865799:0;make -j8
+: 1735866443:1;docker compose up -d
+: 1735866659:0;make -j8
+: 1735866964:2;npm run dev
+: 1735867289:0;npm run test
+: 1735867613:0;python3 -m http.server 8080
+: 1735868354:0;git push origin main
+: 1735869080:1;npm run build
+: 1735869424:1;git pull --rebase
+: 1735869801:2;git status
+: 1735870635:0;git pull --rebase
+: 1735870949:0;git log --oneline --graph --decorate
+: 1735871556:2;git status
+: 1735871964:1;npm run dev
+: 1735872822:0;git status
+: 1735873633:0;systemctl --user restart syncthing
+: 1735873950:0;npm run dev
+: 1735874264:0;docker compose up -d
+: 1735874638:1;git pull --rebase
+: 1735875329:0;terraform apply -auto-approve
+: 1735876114:1;git status
+: 1735876353:0;docker compose logs -f api
+: 1735877220:2;npm run dev
+: 1735877517:2;npm run build
+: 1735878249:0;git status
+: 1735878409:0;kubectl get pods -n staging
+: 1735879059:2;git push origin main
+: 1735879324:0;git push origin main
+: 1735879395:2;history
+: 1735879646:0;git status
+: 1735879719:0;git commit -m "bump version"
+: 1735880162:0;git push origin main
+: 1735880916:1;kubectl logs -f deploy/api -n staging
+: 1735881038:0;true
+: 1735881063:2;git commit -m "refactor parser"
+: 1735881244:1;git status
+: 1735881932:1;git push origin main
+: 1735882440:0;npm run test
+: 1735883234:0;git status
+: 1735883582:0;systemctl --user restart syncthing
+: 1735884263:0;git status
+: 1735885070:0;git log --oneline --graph --decorate
+: 1735885757:2;npm run dev
+: 1735886014:2;git status
+: 1735886790:0;npm run dev
+: 1735886989:1;git push origin main
+: 1735887866:0;git status
+: 1735887923:1;git status
+: 1735888749:1;cd ..
+: 1735888959:0;which node
+: 1735889017:0;docker compose up -d
+: 1735889342:2;git commit -m "docs"
+: 1735889979:0;make -j8
+: 1735890342:0;npm run build
+: 1735890827:2;docker compose logs -f api
+: 1735891383:1;cargo test --workspace
+: 1735891540:2;npm run test
+: 1735892039:0;git commit -m "update deps"
+: 1735892256:0;git status
+: 1735892614:0;docker compose up -d
+: 1735893382:1;git status
+: 1735894065:0;kubectl get pods -n staging
+: 1735894820:0;npm run dev
+: 1735894854:0;git commit -m "cleanup"
+: 1735895683:0;npm run test
+: 1735896284:0;git push origin main
+: 1735896483:2;git push origin main
+: 1735897379:1;git pull --rebase
+: 1735898245:1;git diff --staged
+: 1735898792:0;ssh deploy@example.test
+: 1735898900:1;git commit -m "update deps"
+: 1735899605:0;git status
+: 1735899814:0;git status
+: 1735900322:0;git push origin main
+: 1735900596:0;history
+: 1735900883:1;git push origin main
+: 1735901144:1;kubectl get pods -n staging
+: 1735901935:0;docker compose up -d
+: 1735902292:0;npm run dev
+: 1735902908:2;docker compose logs -f api
+: 1735902939:0;npm run dev
+: 1735903628:0;docker compose logs -f api
+: 1735904357:0;docker compose up -d
+: 1735904440:0;ls
+: 1735904936:0;python3 -m http.server 8080
+: 1735905119:1;git push origin main
+: 1735905841:2;git status
+: 1735906581:0;make -j8
+: 1735907307:0;git commit -m "wip"
+: 1735907981:0;du -sh .
+: 1735908377:2;kubectl logs -f deploy/api -n staging
+: 1735908623:0;docker compose logs -f api
+: 1735908779:1;npm run dev
+: 1735908955:1;npm run test
+: 1735909740:2;curl -s http://127.0.0.1:8080/healthz
+: 1735910142:1;git diff --staged
+: 1735910880:2;top
+: 1735911382:2;make -j8
+: 1735912223:0;du -sh .
+: 1735913023:0;git status
+: 1735913739:2;git status
+: 1735914565:0;docker compose up -d
+: 1735915123:1;npm run test
+: 1735915683:0;man rsync
+: 1735915782:2;git status
+: 1735915916:0;git pull --rebase
+: 1735916784:2;git status
+: 1735917321:0;npm run dev
+: 1735917927:2;docker compose logs -f api
+: 1735918100:0;git commit -m "update deps"
+: 1735918455:2;git pull --rebase
+: 1735918927:0;du -sh .
+: 1735919643:0;docker compose up -d
+: 1735920397:2;which node
+: 1735920917:0;npm run dev
+: 1735921459:1;git status
+: 1735922307:0;ls -la
+: 1735922791:0;ssh deploy@example.test
+: 1735923336:1;git commit -m "refactor parser"
+: 1735923823:2;docker compose logs -f api
+: 1735923902:2;git commit -m "refactor parser"
+: 1735924395:0;git status
+: 1735925155:0;clear
+: 1735925580:0;git diff --staged
+: 1735926436:0;npm run dev
+: 1735927219:0;pwd
+: 1735927831:0;history
+: 1735927897:1;git commit -m "fix ci"
+: 1735928269:0;npm run test
+: 1735928843:0;git push origin main
+: 1735928933:1;git status
+: 1735928985:0;npm run dev
+: 1735929423:0;git status
+: 1735930230:0;git status
+: 1735931034:1;npm run dev
+: 1735931437:1;git status
+: 1735931916:1;ssh deploy@example.test
+: 1735932320:0;git push origin main
+: 1735933039:2;git push origin main
+: 1735933195:0;git diff --staged
+: 1735933336:0;git status
+: 1735933906:1;git status
+: 1735934467:0;python3 -m http.server 8080
+: 1735935232:0;git status
+: 1735936106:0;kubectl get pods -n staging
+: 1735936900:0;git status
+: 1735937225:1;git status
+: 1735937934:2;git push origin main
+: 1735938388:2;docker compose up -d
+: 1735938796:0;git status
+: 1735939069:1;git push origin main
+: 1735939443:0;git status
+: 1735939745:0;npm run build
+: 1735940507:0;docker compose up -d
+: 1735940559:1;git status
+: 1735941208:0;kubectl get pods -n staging
+: 1735941474:0;git status
+: 1735941562:0;npm run test
+: 1735942190:0;git status
+: 1735942667:2;git log --oneline --graph --decorate
+: 1735943375:0;kubectl get pods -n staging
+: 1735943645:0;git status
+: 1735944076:1;npm run dev
+: 1735944335:2;df -h
+: 1735944577:0;git push origin main
+: 1735944740:2;curl -s http://127.0.0.1:8080/healthz
+: 1735945056:0;npm run build
+: 1735945911:2;npm run dev
+: 1735946257:2;git commit -m "handle edge case"
+: 1735946889:0;git push origin main
+: 1735947151:0;git status
+: 1735947317:2;git status
+: 1735947563:1;git commit -m "update deps"
+: 1735947890:0;man rsync
+: 1735947972:2;npm run test
+: 1735948597:0;git push origin main
+: 1735949258:1;git commit -m "cleanup"
+: 1735949847:1;git status
+: 1735949915:0;make -j8
+: 1735950593:1;history
+: 1735951417:2;npm run dev
+: 1735951763:1;du -sh .
+: 1735952201:0;kubectl get pods -n staging
+: 1735952528:1;git diff --staged
+: 1735952736:2;git push origin main
+: 1735953240:0;kubectl get pods -n staging
+: 1735954129:0;python3 -m http.server 8080
+: 1735954456:0;git status
+: 1735955301:1;git push origin main
+: 1735955380:2;git commit -m "update deps"
+: 1735955822:1;docker compose up -d
+: 1735956412:2;git status
+: 1735956569:1;git commit -m "cleanup"
+: 1735956837:0;git status
+: 1735957065:0;git diff --staged
+: 1735957747:0;git push origin main
+: 1735958227:0;curl -s http://127.0.0.1:8080/healthz
+: 1735958341:2;pwd
+: 1735959102:0;git commit -m "add tests"
+: 1735959174:0;git push origin main
+: 1735959580:2;git commit -m "cleanup"
+: 1735960217:0;true
+: 1735960311:0;git push origin main
+: 1735961154:2;kubectl logs -f deploy/api -n staging
+: 1735961915:2;kubectl get pods -n staging
+: 1735962157:1;curl -s http://127.0.0.1:8080/healthz
+: 1735962390:0;ping 127.0.0.1
+: 1735962720:0;ls -la
+: 1735962956:0;curl -s http://127.0.0.1:8080/healthz
+: 1735963735:0;git pull --rebase
+: 1735964519:1;npm run build
+: 1735964787:2;git push origin main
+: 1735965527:0;terraform apply -auto-approve
+: 1735965953:0;git status
+: 1735966538:0;git commit -m "fix typo"
+: 1735967352:0;git pull --rebase
+: 1735967761:1;npm run test
+: 1735968327:0;git log --oneline --graph --decorate
+: 1735968662:0;curl -s http://127.0.0.1:8080/healthz
+: 1735969050:2;git diff --staged
+: 1735969579:1;git pull --rebase
+: 1735969699:1;npm run test
+: 1735970498:0;git pull --rebase
+: 1735970726:0;git pull --rebase
+: 1735971066:1;git push origin main
+: 1735971132:2;git status
+: 1735971378:0;git log --oneline --graph --decorate
+: 1735971414:0;git log --oneline --graph --decorate
+: 1735972000:2;kubectl logs -f deploy/api -n staging
+: 1735972613:1;git status
+: 1735972935:0;git commit -m "refactor parser"
+: 1735973155:0;git pull --rebase
+: 1735973410:1;npm run build
+: 1735974013:0;npm run dev
+: 1735974544:2;npm run test
+: 1735975234:0;git push origin main
+: 1735975517:1;npm run dev
+: 1735976277:1;git commit -m "fix typo"
+: 1735976768:0;docker compose up -d
+: 1735977538:0;kubectl logs -f deploy/api -n staging
+: 1735977731:0;git status
+: 1735978488:2;kubectl get pods -n staging
+: 1735979008:0;docker compose up -d
+: 1735979583:0;npm run test
+: 1735980139:0;ls
+: 1735981018:0;git pull --rebase
+: 1735981875:0;env | sort
+: 1735982677:0;git status
+: 1735983119:0;git status
+: 1735984001:0;python3 -m http.server 8080
+: 1735984090:0;python3 -m http.server 8080
+: 1735984119:0;git status
+: 1735984656:1;npm run build
+: 1735985058:0;npm run dev
+: 1735985710:2;npm run dev
+: 1735986224:1;python3 -m http.server 8080
+: 1735986260:0;docker compose up -d
+: 1735986824:2;git commit -m "cleanup"
+: 1735987265:0;make -j8
+: 1735987302:2;git status
+: 1735988061:0;npm run build
+: 1735988629:0;terraform plan
+: 1735988666:2;terraform apply -auto-approve
+: 1735989518:1;docker compose up -d
+: 1735990363:0;vim notes.md
+: 1735990492:0;git pull --rebase
+: 1735991048:0;git push origin main
+: 1735991314:0;pwd
+: 1735991968:2;git status
+: 1735992246:0;npm run build
+: 1735992539:1;git commit -m "wip"
+: 1735992639:0;git log --oneline --graph --decorate
+: 1735993074:1;git pull --rebase
+: 1735993672:0;git status
+: 1735994405:0;docker compose logs -f api
+: 1735994732:0;terraform plan
+: 1735995421:0;npm run dev
+: 1735995536:1;top
+: 1735995944:1;git push origin main
+: 1735996529:1;clear
+: 1735996606:0;git commit -m "fix typo"
+: 1735997345:0;git status
+: 1735997449:1;git status
+: 1735998334:1;git push origin main
+: 1735999014:0;npm run dev
+: 1735999613:0;cargo test --workspace
+: 1736000173:0;git commit -m "bump version"
+: 1736000428:0;npm run dev
+: 1736001156:2;terraform plan
+: 1736001662:0;kubectl get pods -n staging
+: 1736001729:0;curl -s http://127.0.0.1:8080/healthz
+: 1736002449:0;docker compose up -d
+: 1736003025:2;git status
+: 1736003718:0;git status
+: 1736003921:0;git push origin main
+: 1736003957:0;npm run dev
+: 1736004578:0;git pull --rebase
+: 1736005368:1;git diff --staged
+: 1736005466:0;git status
+: 1736005652:2;git commit -m "wip"
+: 1736005918:2;npm run build
+: 1736006792:1;make -j8
+: 1736007505:2;terraform plan
+: 1736007864:1;git status
+: 1736008657:0;clear
+: 1736009486:0;make -j8
+: 1736010018:0;npm run dev
+: 1736010092:0;docker compose logs -f api
+: 1736010559:0;ping 127.0.0.1
+: 1736011437:0;kubectl logs -f deploy/api -n staging
+: 1736011805:2;git status
+: 1736012612:2;docker compose up -d
+: 1736013241:1;ls
+: 1736014053:0;git push origin main
+: 1736014103:0;terraform plan
+: 1736014925:1;docker compose up -d
+: 1736015447:0;python3 -m http.server 8080
+: 1736015831:2;git diff --staged
+: 1736016235:1;df -h
+: 1736016445:2;history
+: 1736017141:1;git pull --rebase
+: 1736017248:2;git status
+: 1736017570:0;git push origin main
+: 1736018320:0;git log --oneline --graph --decorate
+: 1736018424:0;python3 -m http.server 8080
+: 1736018601:1;git pull --rebase
+: 1736019349:0;terraform plan
+: 1736020126:1;terraform plan
+: 1736020470:0;npm run dev
+: 1736020599:0;npm run dev
+: 1736020624:0;docker compose up -d
+: 1736021099:0;git status
+: 1736021898:0;git status
+: 1736022022:0;npm run dev
+: 1736022131:0;make -j8
+: 1736022592:1;git commit -m "docs"
+: 1736023182:2;git status
+: 1736023726:1;npm run dev
+: 1736023851:0;kubectl get pods -n staging
+: 1736023962:0;git status
+: 1736024549:0;make -j8
+: 1736025180:2;kubectl logs -f deploy/api -n staging
+: 1736026003:0;true
+: 1736026417:0;git status
+: 1736026735:1;top
+: 1736027152:0;kubectl logs -f deploy/api -n staging
+: 1736027914:2;npm run dev
+: 1736028182:2;cd ~/src
+: 1736028735:0;git status
+: 1736029456:1;npm run dev
+: 1736029649:0;git status
+: 1736029944:0;true
+: 1736030238:1;history
+: 1736030407:0;terraform apply -auto-approve
+: 1736030598:1;npm run dev
+: 1736030900:1;git status
+: 1736031226:1;git status
+: 1736032047:0;git status
+: 1736032436:0;git status
+: 1736032708:1;ssh deploy@example.test
+: 1736033336:2;docker compose up -d
+: 1736033556:1;npm run dev
+: 1736033685:0;env | sort
+: 1736034016:0;du -sh .
+: 1736034441:0;git status
+: 1736035322:2;kubectl logs -f deploy/api -n staging
+: 1736035731:0;git status
+: 1736036201:0;docker compose up -d
+: 1736036661:2;git status
+: 1736036820:0;git commit -m "fix typo"
+: 1736037168:2;git status
+: 1736037899:0;git status
+: 1736038409:0;git log --oneline --graph --decorate
+: 1736038610:1;git commit -m "handle edge case"
+: 1736038956:0;git status
+: 1736039728:1;docker compose up -d
+: 1736040337:0;make -j8
+: 1736040690:1;git status
+: 1736040997:1;npm run dev
+: 1736041390:0;true
+: 1736041987:0;git status
+: 1736042613:2;ssh deploy@example.test
+: 1736042817:2;docker compose up -d
+: 1736042864:1;docker compose logs -f api
+: 1736043609:0;git push origin main
+: 1736044077:0;docker compose up -d
+: 1736044948:0;git status
+: 1736045806:1;git push origin main
+: 1736046515:1;ls
+: 1736046677:0;git log --oneline --graph --decorate
+: 1736046944:0;git pull --rebase
+: 1736047638:0;git status
+: 1736048390:1;uname -a
+: 1736049218:1;npm run test
+: 1736049313:1;kubectl logs -f deploy/api -n staging
+: 1736049945:1;git push origin main
+: 1736050561:1;npm run dev
+: 1736051128:2;git diff --staged
+: 1736051856:1;git status
+: 1736052432:0;git status
+: 1736053261:0;npm run test
+: 1736053999:2;git status
+: 1736054627:0;docker compose up -d
+: 1736054758:0;git status
+: 1736055451:0;git status
+: 1736055641:2;true
+: 1736055706:2;make -j8
+: 1736056386:1;du -sh .
+: 1736057176:0;docker compose up -d
+: 1736058011:1;git status
+: 1736058139:0;git pull --rebase
+: 1736058259:0;git push origin main
+: 1736058506:2;git status
+: 1736059290:2;git commit -m "wip"
+: 1736059881:2;git commit -m "add tests"
+: 1736060605:2;docker compose logs -f api
+: 1736060851:1;git status
+: 1736061254:1;git status
+: 1736061748:2;cargo test --workspace
+: 1736062475:2;terraform plan
+: 1736062649:0;pwd
+: 1736062694:1;systemctl --user restart syncthing
+: 1736062821:0;git status
+: 1736063266:0;cargo test --workspace
+: 1736063404:0;cat README.md
+: 1736063780:0;git status
+: 1736064151:1;cd ~/src
+: 1736064974:0;npm run dev
+: 1736065527:1;npm run dev
+: 1736065903:1;npm run build
+: 1736066022:1;curl -s http://127.0.0.1:8080/healthz
+: 1736066781:1;git status
+: 1736067127:0;npm run test
+: 1736067454:0;docker compose logs -f api
+: 1736068303:0;git status
+: 1736068346:0;git status
+: 1736069029:0;git status
+: 1736069742:0;cd ..
+: 1736070520:0;git commit -m "cleanup"
+: 1736071068:0;ls
+: 1736071653:0;git status
+: 1736072011:2;git status
+: 1736072467:1;git push origin main
+: 1736072724:1;git status
+: 1736073388:0;ping 127.0.0.1
+: 1736073598:1;echo $PATH
+: 1736074023:0;git commit -m "docs"
+: 1736074798:2;git status
+: 1736075020:1;terraform plan
+: 1736075646:1;git pull --rebase
+: 1736076064:0;uname -a
+: 1736076805:0;docker compose up -d
+: 1736077035:0;man rsync
+: 1736077825:0;terraform apply -auto-approve
+: 1736078436:0;ls
+: 1736079274:2;git diff --staged
+: 1736079485:0;git diff --staged
+: 1736079838:0;git status
+: 1736080326:0;make -j8
+: 1736080614:1;npm run dev
+: 1736081174:0;npm run dev
+: 1736081805:1;du -sh .
+: 1736082450:1;npm run dev
+: 1736083071:0;git status
+: 1736083447:0;curl -s http://127.0.0.1:8080/healthz
+: 1736084332:1;git status
+: 1736084984:0;npm run dev
+: 1736085837:0;kubectl get pods -n staging
+: 1736086486:2;ls
+: 1736086592:0;cd ~/src
+: 1736086932:0;make -j8
+: 1736087196:0;cargo test --workspace
+: 1736087335:0;git pull --rebase
+: 1736087737:0;git diff --staged
+: 1736088280:1;env | sort
+: 1736088728:2;terraform plan
+: 1736088889:2;docker compose up -d
+: 1736089301:1;npm run dev
+: 1736089511:1;du -sh .
+: 1736090181:2;git push origin main
+: 1736090911:0;git log --oneline --graph --decorate
+: 1736091499:0;make -j8
+: 1736092020:0;git diff --staged
+: 1736092183:0;kubectl logs -f deploy/api -n staging
+: 1736092525:1;docker compose up -d
+: 1736093179:0;npm run dev
+: 1736093566:0;vim notes.md
+: 1736094082:0;npm run test
+: 1736094301:1;npm run dev
+: 1736094896:2;git push origin main
+: 1736095584:1;git status
+: 1736096022:1;make -j8
+: 1736096467:1;git status
+: 1736096987:0;git status
+: 1736097091:2;npm run build
+: 1736097142:0;git pull --rebase
+: 1736097461:0;git pull --rebase
+: 1736097762:0;npm run dev
+: 1736098332:0;npm run dev
+: 1736098524:1;git commit -m "docs"
+: 1736099123:1;kubectl logs -f deploy/api -n staging
+: 1736099705:2;git status
+: 1736099840:2;docker compose logs -f api
+: 1736099976:0;docker compose up -d
+: 1736100789:2;curl -s http://127.0.0.1:8080/healthz
+: 1736101652:0;make -j8
+: 1736102227:0;npm run dev
+: 1736103025:1;ls
+: 1736103604:0;git status
+: 1736104059:0;git status
+: 1736104832:0;git pull --rebase
+: 1736105156:0;git status
+: 1736105636:0;clear
+: 1736106012:0;git status
+: 1736106481:0;npm run dev
+: 1736107295:0;docker compose up -d
+: 1736107529:2;npm run test
+: 1736108254:0;git status
+: 1736109001:2;git push origin main
+: 1736109668:1;git status
+: 1736109857:2;git diff --staged
+: 1736110019:0;git push origin main
+: 1736110872:0;cat README.md
+: 1736111716:0;ssh deploy@example.test
+: 1736112319:0;man rsync
+: 1736112884:0;git diff --staged
+: 1736113515:2;npm run test
+: 1736113707:0;docker compose logs -f api
+: 1736114447:0;git status
+: 1736114763:2;git push origin main
+: 1736115056:2;git commit -m "update deps"
+: 1736115771:0;npm run dev
+: 1736115929:1;docker compose up -d
+: 1736116009:0;du -sh .
+: 1736116700:0;git pull --rebase
+: 1736117438:0;npm run dev
+: 1736117713:0;git status
+: 1736118461:0;git pull --rebase
+: 1736119329:0;npm run test
+: 1736120128:1;uname -a
+: 1736120649:0;env | sort
+: 1736121260:0;kubectl logs -f deploy/api -n staging
+: 1736121922:1;git status
+: 1736122326:1;npm run test
+: 1736122423:0;cat README.md
+: 1736122855:2;git status
+: 1736123642:0;kubectl logs -f deploy/api -n staging
+: 1736124373:0;npm run dev
+: 1736124858:1;npm run build
+: 1736125213:2;docker compose logs -f api
+: 1736125235:0;du -sh .
+: 1736126003:1;git pull --rebase
+: 1736126673:0;npm run build
+: 1736127563:0;git pull --rebase
+: 1736128397:2;kubectl get pods -n staging
+: 1736128824:0;npm run build
+: 1736129283:0;docker compose up -d
+: 1736129809:0;git status
+: 1736130159:0;npm run dev
+: 1736130524:2;git diff --staged
+: 1736131135:0;npm run dev
+: 1736131734:1;git status
+: 1736132561:0;true
+: 1736133279:0;git status
+: 1736133346:0;git diff --staged
+: 1736134007:1;git pull --rebase
+: 1736134043:0;ssh deploy@example.test
+: 1736134941:0;npm run test
+: 1736135412:1;npm run dev
+: 1736135432:1;git push origin main
+: 1736135659:0;git push origin main
+: 1736136344:0;git status
+: 1736136526:0;ssh deploy@example.test
+: 1736136641:0;npm run build
+: 1736136917:0;cargo test --workspace
+: 1736137317:0;npm run test
+: 1736137390:1;terraform plan
+: 1736138050:0;git push origin main
+: 1736138813:0;vim notes.md
+: 1736139272:0;git pull --rebase
+: 1736140012:0;git status
+: 1736140033:0;git push origin main
+: 1736140541:0;terraform plan
+: 1736140696:2;terraform apply -auto-approve
+: 1736140947:2;git pull --rebase
+: 1736141663:1;git push origin main
+: 1736141692:0;git status
+: 1736142424:0;npm run build
+: 1736143280:0;docker compose up -d
+: 1736144180:1;npm run build
+: 1736144910:0;git status
+: 1736145419:0;ping 127.0.0.1
+: 1736145673:1;git commit -m "add tests"
+: 1736145784:0;npm run dev
+: 1736145909:0;ssh deploy@example.test
+: 1736146305:0;terraform apply -auto-approve
+: 1736146465:1;npm run dev
+: 1736147277:0;npm run dev
+: 1736147953:0;make -j8
+: 1736148043:2;history
+: 1736148639:0;git log --oneline --graph --decorate
+: 1736149283:0;npm run build
+: 1736149753:0;git log --oneline --graph --decorate
+: 1736150512:0;docker compose up -d
+: 1736151175:0;git status
+: 1736151616:2;git status
+: 1736152339:1;git diff --staged
+: 1736153239:0;kubectl get pods -n staging
+: 1736153347:0;git push origin main
+: 1736153510:0;git push origin main
+: 1736154133:1;kubectl get pods -n staging
+: 1736154512:1;top
+: 1736154854:0;npm run dev
+: 1736155127:0;docker compose up -d
+: 1736155807:0;git status
+: 1736156081:2;cargo test --workspace
+: 1736156716:2;git status
+: 1736157474:2;uname -a
+: 1736157785:0;git commit -m "cleanup"
+: 1736158673:0;history
+: 1736158903:2;kubectl logs -f deploy/api -n staging
+: 1736159544:2;git commit -m "fix typo"
+: 1736159757:1;npm run build
+: 1736160079:0;terraform plan
+: 1736160901:0;git commit -m "wip"
+: 1736161427:1;env | sort
+: 1736161562:0;vim notes.md
+: 1736162093:2;kubectl logs -f deploy/api -n staging
+: 1736162185:2;docker compose up -d
+: 1736162217:0;docker compose up -d
+: 1736162561:0;docker compose logs -f api
+: 1736162977:2;git push origin main
+: 1736163427:0;npm run dev
+: 1736164006:0;cd ~/src
+: 1736164807:1;git commit -m "fix ci"
+: 1736165615:0;uname -a
+: 1736165652:2;git push origin main
+: 1736165741:0;clear
+: 1736166029:0;cargo test --workspace
+: 1736166089:0;git status
+: 1736166917:1;curl -s http://127.0.0.1:8080/healthz
+: 1736167455:0;history
+: 1736168118:2;git status
+: 1736168923:1;git diff --staged
+: 1736169376:1;python3 -m http.server 8080
+: 1736169480:2;git status
+: 1736170050:2;git status
+: 1736170226:0;curl -s http://127.0.0.1:8080/healthz
+: 1736170331:0;git pull --rebase
+: 1736170431:2;git diff --staged
+: 1736170659:0;git status
+: 1736171228:0;pwd
+: 1736171648:2;git diff --staged
+: 1736172317:0;systemctl --user restart syncthing
+: 1736172654:1;git pull --rebase
+: 1736173421:0;npm run test
+: 1736173500:0;uname -a
+: 1736173608:1;docker compose logs -f api
+: 1736173746:1;npm run dev
+: 1736174392:2;npm run dev
+: 1736174468:0;git commit -m "refactor parser"
+: 1736175170:0;ls -la
+: 1736175312:0;npm run dev
+: 1736176056:0;cargo test --workspace
+: 1736176794:0;git pull --rebase
+: 1736176981:1;git commit -m "bump version"
+: 1736177356:2;git push origin main
+: 1736177905:0;kubectl get pods -n staging
+: 1736178095:0;git status
+: 1736178244:0;man rsync
+: 1736179014:0;git status
+: 1736179823:0;make -j8
+: 1736180186:1;npm run build
+: 1736180484:2;git status
+: 1736180569:0;git diff --staged
+: 1736181318:2;kubectl get pods -n staging
+: 1736181980:0;cd ~/src
+: 1736182508:1;npm run build
+: 1736183051:0;npm run dev
+: 1736183127:1;npm run build
+: 1736184026:2;git status
+: 1736184216:0;git commit -m "refactor parser"
+: 1736184397:0;npm run test
+: 1736185208:0;docker compose up -d
+: 1736185815:0;man rsync
+: 1736186068:2;kubectl logs -f deploy/api -n staging
+: 1736186090:0;ls
+: 1736186989:0;true
+: 1736187259:0;npm run build
+: 1736187762:0;df -h
+: 1736188174:0;npm run dev
+: 1736188377:0;git status
+: 1736188963:1;git commit -m "docs"
+: 1736189212:0;npm run dev
+: 1736189486:1;git status
+: 1736190243:0;npm run build
+: 1736190540:0;npm run test
+: 1736191145:0;git push origin main
+: 1736191287:2;git status
+: 1736191996:0;npm run build
+: 1736192199:0;kubectl get pods -n staging
+: 1736193042:2;npm run dev
+: 1736193109:1;npm run build
+: 1736193199:1;npm run build
+: 1736193508:0;ls
+: 1736193863:0;git commit -m "handle edge case"
+: 1736194449:1;git status
+: 1736194477:0;npm run dev
+: 1736194702:0;git pull --rebase
+: 1736195299:0;git status
+: 1736196076:2;man rsync
+: 1736196344:1;git status
+: 1736196741:2;npm run dev
+: 1736197266:0;npm run dev
+: 1736198036:2;docker compose up -d
+: 1736198834:0;git pull --rebase
+: 1736199008:0;docker compose up -d
+: 1736199447:0;git status
+: 1736199705:2;npm run test
+: 1736200079:0;docker compose up -d
+: 1736200442:0;git pull --rebase
+: 1736201239:1;kubectl logs -f deploy/api -n staging
+: 1736202128:0;terraform plan
+: 1736202254:0;docker compose up -d
+: 1736202816:0;git pull --rebase
+: 1736203265:1;git pull --rebase
+: 1736203346:0;npm run test
+: 1736204094:0;kubectl get pods -n staging
+: 1736204209:0;git status
+: 1736204466:2;npm run test
+: 1736204908:0;npm run test
+: 1736205397:0;docker compose logs -f api
+: 1736206011:0;npm run test
+: 1736206548:0;npm run dev
+: 1736207220:1;git commit -m "wip"
+: 1736207316:2;ssh deploy@example.test
+: 1736207917:0;git status
+: 1736208382:0;kubectl get pods -n staging
+: 1736208644:0;git status
+: 1736208931:0;git pull --rebase
+: 1736209771:1;which node
+: 1736210508:0;kubectl get pods -n staging
+: 1736210853:1;terraform plan
+: 1736211151:0;git push origin main
+: 1736211247:0;git push origin main
+: 1736211406:2;npm run test
+: 1736211537:0;git status
+: 1736211665:0;git status
+: 1736212145:1;git status
+: 1736212486:1;git pull --rebase
+: 1736212629:2;true
+: 1736213015:0;kubectl logs -f deploy/api -n staging
+: 1736213497:0;npm run dev
+: 1736213991:0;git push origin main
+: 1736214883:0;npm run build
+: 1736214995:0;kubectl get pods -n staging
+: 1736215841:0;git status
+: 1736216707:2;env | sort
+: 1736216768:0;history
+: 1736217643:0;git status
+: 1736217814:0;vim notes.md
+: 1736218562:0;git status
+: 1736218946:1;vim notes.md
+: 1736219491:0;ls
+: 1736220204:0;docker compose up -d
+: 1736220490:0;git commit -m "fix typo"
+: 1736220541:1;history
+: 1736221436:1;npm run dev
+: 1736222025:2;docker compose logs -f api
+: 1736222300:0;docker compose up -d
+: 1736222793:0;git status
+: 1736223636:0;git push origin main
+: 1736223780:0;kubectl get pods -n staging
+: 1736223863:0;docker compose logs -f api
+: 1736224016:0;clear
+: 1736224879:1;npm run test
+: 1736225280:0;make -j8
+: 1736225896:2;kubectl get pods -n staging
+: 1736226181:0;npm run dev
+: 1736226223:0;git diff --staged
+: 1736226445:1;git diff --staged
+: 1736227293:0;docker compose up -d
+: 1736227407:0;docker compose up -d
+: 1736227552:0;git status
+: 1736228044:0;python3 -m http.server 8080
+: 1736228236:2;npm run build
+: 1736228699:1;docker compose up -d
+: 1736229227:0;cargo test --workspace
+: 1736229638:1;git push origin main
+: 1736229834:0;git commit -m "refactor parser"
+: 1736230073:0;npm run test
+: 1736230374:0;git commit -m "fix ci"
+: 1736230850:0;git status
+: 1736230905:2;cat README.md
+: 1736231559:2;docker compose up -d
+: 1736231830:0;git commit -m "fix ci"
+: 1736232360:1;npm run dev
+: 1736232943:1;npm run build
+: 1736233025:0;docker compose up -d
+: 1736233331:1;docker compose logs -f api
+: 1736233491:1;docker compose up -d
+: 1736233715:2;env | sort
+: 1736233990:2;git log --oneline --graph --decorate
+: 1736234823:0;git commit -m "docs"
+: 1736235234:0;git status
+: 1736235745:2;npm run test
+: 1736236565:1;npm run dev
+: 1736236937:2;git push origin main
+: 1736237471:0;terraform apply -auto-approve
+: 1736237888:0;terraform plan
+: 1736238092:0;git status
+: 1736238438:2;true
+: 1736238682:0;man rsync
+: 1736239532:0;git pull --rebase
+: 1736239611:1;git commit -m "fix ci"
+: 1736240173:0;git commit -m "handle edge case"
+: 1736240978:2;clear
+: 1736241236:0;git diff --staged
+: 1736241358:0;docker compose logs -f api
+: 1736242050:0;npm run test
+: 1736242342:2;git commit -m "wip"
+: 1736243197:0;npm run dev
+: 1736243999:0;npm run test
+: 1736244608:1;git status
+: 1736244991:0;git status
+: 1736245191:0;curl -s http://127.0.0.1:8080/healthz
+: 1736245817:0;git log --oneline --graph --decorate
+: 1736246662:0;man rsync
+: 1736247287:0;curl -s http://127.0.0.1:8080/healthz
+: 1736248027:0;make -j8
+: 1736248628:2;git status
+: 1736248793:2;npm run dev
+: 1736249005:1;git commit -m "fix ci"
+: 1736249580:0;npm run build
+: 1736249779:1;man rsync
+: 1736249837:0;npm run dev
+: 1736249914:0;docker compose up -d
+: 1736250550:0;ping 127.0.0.1
+: 1736250590:2;git commit -m "bump version"
+: 1736251099:0;npm run dev
+: 1736251458:2;npm run build
+: 1736251684:0;git push origin main
+: 1736252052:0;git status
+: 1736252893:0;git push origin main
+: 1736252973:0;uname -a
+: 1736253144:2;docker compose up -d
+: 1736253885:0;npm run dev
+: 1736254697:0;kubectl get pods -n staging
+: 1736255583:2;git push origin main
+: 1736255976:0;git push origin main
+: 1736256378:1;kubectl get pods -n staging
+: 1736256998:0;git status
+: 1736257362:0;npm run dev
+: 1736257712:0;git status
+: 1736257893:1;true
+: 1736258723:1;clear
+: 1736259407:0;git pull --rebase
+: 1736259605:2;npm run build
+: 1736260335:2;npm run dev
+: 1736261160:0;git push origin main
+: 1736261408:2;git status
+: 1736262262:0;npm run build
+: 1736262669:0;git push origin main
+: 1736263440:0;git status
+: 1736263590:0;git commit -m "add tests"
+: 1736264356:0;git status
+: 1736265094:2;echo $PATH
+: 1736265514:2;ssh deploy@example.test
+: 1736265567:0;npm run dev
+: 1736266203:0;git status
+: 1736267051:2;git commit -m "bump version"
+: 1736267297:2;git push origin main
+: 1736267423:1;npm run dev
+: 1736267587:0;systemctl --user restart syncthing
+: 1736268370:0;npm run dev
+: 1736268633:0;docker compose up -d
+: 1736268980:0;git status
+: 1736269651:0;git status
+: 1736270512:0;npm run test
+: 1736270989:0;git status
+: 1736271280:0;ssh deploy@example.test
+: 1736271555:0;git log --oneline --graph --decorate
+: 1736271933:0;curl -s http://127.0.0.1:8080/healthz
+: 1736272758:0;git status
+: 1736273515:0;python3 -m http.server 8080
+: 1736273584:1;git status
+: 1736274052:1;git commit -m "bump version"
+: 1736274242:1;pwd
+: 1736274766:1;curl -s http://127.0.0.1:8080/healthz
+: 1736275145:2;ssh deploy@example.test
+: 1736275549:0;npm run test
+: 1736276417:1;ssh deploy@example.test
+: 1736277244:2;npm run test
+: 1736277930:0;vim notes.md
+: 1736278116:1;git pull --rebase
+: 1736278211:0;git status
+: 1736278532:0;npm run dev
+: 1736278878:0;git status
+: 1736279005:0;git status
+: 1736279375:0;docker compose up -d
+: 1736279779:0;git commit -m "cleanup"
+: 1736280548:0;env | sort
+: 1736281128:0;git status
+: 1736281494:2;clear
+: 1736282142:1;pwd
+: 1736282883:0;docker compose logs -f api
+: 1736283344:0;git pull --rebase
+: 1736283985:1;git push origin main
+: 1736284165:0;npm run dev
+: 1736284288:0;git push origin main
+: 1736284518:0;git diff --staged
+: 1736284957:2;docker compose up -d
+: 1736285716:2;docker compose up -d
+: 1736286007:0;true
+: 1736286331:0;clear
+: 1736286449:0;git status
+: 1736286871:2;git status
+: 1736287453:1;env | sort
+: 1736287630:0;git status
+: 1736288019:0;git status
+: 1736288476:0;docker compose up -d
+: 1736288797:2;ssh deploy@example.test
+: 1736289308:0;git status
+: 1736289427:0;clear
+: 1736289658:0;git diff --staged
+: 1736290331:0;docker compose up -d
+: 1736290434:1;python3 -m http.server 8080
+: 1736291318:0;ls
+: 1736291653:1;clear
+: 1736292155:1;docker compose up -d
+: 1736292851:0;npm run dev
+: 1736292964:2;git pull --rebase
+: 1736293380:0;git commit -m "fix typo"
+: 1736293779:1;npm run dev
+: 1736294177:0;git status
+: 1736294653:0;curl -s http://127.0.0.1:8080/healthz
+: 1736294942:1;docker compose logs -f api
+: 1736295438:0;git push origin main
+: 1736295689:0;terraform apply -auto-approve
+: 1736296286:0;git status
+: 1736296460:0;git status
+: 1736296567:0;cargo test --workspace
+: 1736297414:2;make -j8
+: 1736297857:2;kubectl get pods -n staging
+: 1736298109:2;git status
+: 1736298191:1;git status
+: 1736299049:2;curl -s http://127.0.0.1:8080/healthz
+: 1736299497:2;kubectl get pods -n staging
+: 1736300220:1;docker compose up -d
+: 1736300826:0;curl -s http://127.0.0.1:8080/healthz
+: 1736301333:0;git status
+: 1736301433:1;du -sh .
+: 1736302327:0;git commit -m "refactor parser"
+: 1736302861:2;git pull --rebase
+: 1736303410:2;npm run dev
+: 1736304123:2;git push origin main
+: 1736304293:0;git pull --rebase
+: 1736305088:1;npm run dev
+: 1736305285:0;terraform plan
+: 1736305521:0;cargo test --workspace
+: 1736305670:0;man rsync
+: 1736306123:0;systemctl --user restart syncthing
+: 1736306842:1;npm run test
+: 1736307068:0;git status
+: 1736307942:2;git diff --staged
+: 1736308226:0;git status
+: 1736308990:0;git diff --staged
+: 1736309099:1;git log --oneline --graph --decorate
+: 1736309688:1;git pull --rebase
+: 1736310273:0;cargo test --workspace
+: 1736311170:0;git status
+: 1736311722:1;npm run build
+: 1736311754:2;git pull --rebase
+: 1736312375:2;git status
+: 1736313195:1;git diff --staged
+: 1736313330:1;git status
+: 1736313503:0;git push origin main
+: 1736314103:2;git status
+: 1736314719:0;docker compose logs -f api
+: 1736314847:2;git status
+: 1736315665:0;git status
+: 1736316489:0;terraform plan
+: 1736317057:0;docker compose logs -f api
+: 1736317497:0;kubectl get pods -n staging
+: 1736317909:1;git log --oneline --graph --decorate
+: 1736318514:2;git status
+: 1736319018:0;git status
+: 1736319214:0;npm run dev
+: 1736319646:0;git commit -m "fix ci"
+: 1736320299:2;python3 -m http.server 8080
+: 1736321016:1;git log --oneline --graph --decorate
+: 1736321075:1;git status
+: 1736321434:0;git push origin main
+: 1736321504:1;docker compose up -d
+: 1736321799:0;git push origin main
+: 1736321839:0;git status
+: 1736322696:0;kubectl logs -f deploy/api -n staging
+: 1736323034:0;systemctl --user restart syncthing
+: 1736323917:1;ssh deploy@example.test
+: 1736324815:0;ls -la
+: 1736325068:0;docker compose up -d
+: 1736325395:1;kubectl get pods -n staging
+: 1736326207:0;git pull --rebase
+: 1736326502:1;npm run build
+: 1736327141:0;git status
+: 1736327353:1;npm run dev
+: 1736327589:1;git status
+: 1736328367:1;git commit -m "docs"
+: 1736329164:2;du -sh .
+: 1736329566:0;git push origin main
+: 1736330113:0;kubectl get pods -n staging
+: 1736330200:0;ls
+: 1736330946:2;npm run build
+: 1736331379:0;git push origin main
+: 1736332198:2;git pull --rebase
+: 1736332800:0;git status
+: 1736332997:0;git status
+: 1736333869:0;python3 -m http.server 8080
+: 1736334746:0;curl -s http://127.0.0.1:8080/healthz
+: 1736335021:0;git status
+: 1736335508:0;git status
+: 1736335897:0;ssh deploy@example.test
+: 1736336197:0;npm run test
+: 1736337060:1;git status
+: 1736337597:1;git pull --rebase
+: 1736338267:0;kubectl get pods -n staging
+: 1736338984:0;git commit -m "docs"
+: 1736339251:0;git push origin main
+: 1736339771:2;clear
+: 1736340247:0;git status
+: 1736340752:2;npm run test
+: 1736341336:0;env | sort
+: 1736341708:0;git commit -m "cleanup"
+: 1736342585:0;git push origin main
+: 1736343371:0;git pull --rebase
+: 1736343682:0;git status
+: 1736344097:0;npm run dev
+: 1736344283:2;npm run build
+: 1736345101:0;git status
+: 1736345998:0;git status
+: 1736346680:0;curl -s http://127.0.0.1:8080/healthz
+: 1736347393:0;curl -s http://127.0.0.1:8080/healthz
+: 1736347688:1;git commit -m "update deps"
+: 1736348233:0;git status
+: 1736349052:0;kubectl get pods -n staging
+: 1736349557:0;npm run build
+: 1736350239:0;npm run test
+: 1736350874:0;npm run dev
+: 1736351123:0;npm run test
+: 1736351765:0;systemctl --user restart syncthing
+: 1736352514:0;env | sort
+: 1736352967:1;git status
+: 1736353859:0;git push origin main
+: 1736354349:0;npm run build
+: 1736354592:1;git commit -m "handle edge case"
+: 1736354921:2;git pull --rebase
+: 1736355785:2;kubectl get pods -n staging
+: 1736356211:2;git log --oneline --graph --decorate
+: 1736356335:0;cargo test --workspace
+: 1736356878:0;git status
+: 1736357472:2;ls -la
+: 1736358115:0;git push origin main
+: 1736358440:0;kubectl logs -f deploy/api -n staging
+: 1736358953:0;git commit -m "wip"
+: 1736359317:0;docker compose up -d
+: 1736359992:0;git pull --rebase
+: 1736360295:0;docker compose logs -f api
+: 1736360986:0;ls
+: 1736361198:0;npm run dev
+: 1736361747:0;git status
+: 1736361825:2;git status
+: 1736362258:0;git pull --rebase
+: 1736362975:0;git status
+: 1736363733:0;make -j8
+: 1736364424:1;git commit -m "handle edge case"
+: 1736364746:0;git status
+: 1736365194:1;git status
+: 1736365611:0;true
+: 1736366228:2;git log --oneline --graph --decorate
+: 1736367083:0;git pull --rebase
+: 1736367454:0;ssh deploy@example.test
+: 1736368176:2;git log --oneline --graph --decorate
+: 1736368849:1;git status
+: 1736369556:0;npm run dev
+: 1736370095:0;git status
+: 1736370980:0;git pull --rebase
+: 1736371860:2;git pull --rebase
+: 1736372065:0;git status
+: 1736372184:1;npm run test
+: 1736372335:0;docker compose logs -f api
+: 1736373097:2;npm run test
+: 1736373898:0;npm run dev
+: 1736374614:0;true
+: 1736375304:0;git commit -m "wip"
+: 1736375551:0;du -sh .
+: 1736375799:0;docker compose up -d
+: 1736376249:0;ls
+: 1736376649:0;git push origin main
+: 1736377268:0;git commit -m "bump version"
+: 1736377762:0;vim notes.md
+: 1736378263:0;git push origin main
+: 1736378932:2;npm run test
+: 1736379546:2;git diff --staged
+: 1736379638:1;terraform plan
+: 1736379857:2;df -h
+: 1736379999:1;git status
+: 1736380561:0;python3 -m http.server 8080
+: 1736381004:0;kubectl get pods -n staging
+: 1736381898:0;systemctl --user restart syncthing
+: 1736382058:0;git status
+: 1736382428:1;git status
+: 1736383031:1;terraform apply -auto-approve
+: 1736383197:0;git status
+: 1736383949:0;kubectl logs -f deploy/api -n staging
+: 1736384766:0;cd ~/src
+: 1736385285:0;git status
+: 1736385951:0;env | sort
+: 1736386291:0;du -sh .
+: 1736386315:1;git pull --rebase
+: 1736386615:0;git status
+: 1736387414:0;git pull --rebase
+: 1736388024:0;docker compose up -d
+: 1736388545:0;npm run dev
+: 1736388697:2;git status
+: 1736389161:1;git status
+: 1736389594:1;kubectl logs -f deploy/api -n staging
+: 1736390102:1;npm run dev
+: 1736390126:0;git diff --staged
+: 1736390692:0;git status
+: 1736391460:0;terraform plan
+: 1736391494:0;terraform apply -auto-approve
+: 1736392289:2;git status
+: 1736392504:0;npm run dev
+: 1736393216:0;env | sort
+: 1736393877:0;true
+: 1736394128:0;history
+: 1736394467:0;cat README.md
+: 1736394592:1;make -j8
+: 1736395127:2;docker compose up -d
+: 1736395460:0;make -j8
+: 1736395546:0;git status
+: 1736395871:0;docker compose logs -f api
+: 1736396357:2;git push origin main
+: 1736396987:2;docker compose logs -f api
+: 1736397352:1;git pull --rebase
+: 1736398075:0;ls
+: 1736398445:1;ls
+: 1736398832:0;git status
+: 1736399020:1;kubectl get pods -n staging
+: 1736399059:0;git status
+: 1736399308:0;npm run test
+: 1736399544:0;docker compose up -d
+: 1736400167:2;git status
+: 1736400360:0;true
+: 1736400755:0;make -j8
+: 1736401159:0;echo $PATH
+: 1736401968:2;clear
+: 1736402626:0;terraform apply -auto-approve
+: 1736403254:0;git commit -m "refactor parser"
+: 1736403951:0;git status
+: 1736404640:0;ls
+: 1736404709:0;man rsync
+: 1736405155:1;git status
+: 1736405564:0;ssh deploy@example.test
+: 1736406144:0;git pull --rebase
+: 1736406649:0;terraform plan
+: 1736406879:0;kubectl get pods -n staging
+: 1736407207:1;git diff --staged
+: 1736407904:0;npm run dev
+: 1736408602:2;npm run dev
+: 1736408898:2;git status
+: 1736409538:0;git diff --staged
+: 1736409986:0;npm run test
+: 1736410529:2;git commit -m "refactor parser"
+: 1736410669:0;git status
+: 1736410805:0;make -j8
+: 1736411334:0;git status
+: 1736411977:0;git status
+: 1736412793:0;git status
+: 1736413664:2;clear
+: 1736413890:0;git status
+: 1736414630:1;kubectl logs -f deploy/api -n staging
+: 1736414952:0;docker compose logs -f api
+: 1736415012:2;git status
+: 1736415540:0;history
+: 1736416264:1;npm run dev
+: 1736416622:0;npm run build
+: 1736416644:0;git log --oneline --graph --decorate
+: 1736417351:0;npm run test
+: 1736417484:2;git log --oneline --graph --decorate
+: 1736418189:1;cat README.md
+: 1736418361:0;git pull --rebase
+: 1736419179:2;terraform apply -auto-approve
+: 1736419275:0;true
+: 1736419557:0;cat README.md
+: 1736420044:0;git pull --rebase
+: 1736420334:1;git status
+: 1736420405:0;git pull --rebase
+: 1736421257:0;git status
+: 1736421317:0;kubectl get pods -n staging
+: 1736421705:0;curl -s http://127.0.0.1:8080/healthz
+: 1736422161:0;npm run build
+: 1736422278:0;docker compose logs -f api
+: 1736422307:0;curl -s http://127.0.0.1:8080/healthz
+: 1736423006:0;git push origin main
+: 1736423362:0;npm run dev
+: 1736423830:2;ls
+: 1736424124:0;cargo test --workspace
+: 1736424525:0;git push origin main
+: 1736424732:0;git status
+: 1736425162:1;git pull --rebase
+: 1736425649:0;npm run build
+: 1736426524:1;npm run dev
+: 1736427250:1;git status
+: 1736428089:1;git pull --rebase
+: 1736428773:0;git status
+: 1736428908:0;du -sh .
+: 1736429640:0;man rsync
+: 1736430524:0;npm run dev
+: 1736430650:1;git commit -m "add tests"
+: 1736431274:1;git push origin main
+: 1736432115:2;ssh deploy@example.test
+: 1736432829:1;git commit -m "bump version"
+: 1736433034:2;make -j8
+: 1736433442:0;git pull --rebase
+: 1736434088:0;npm run dev
+: 1736434808:0;kubectl get pods -n staging
+: 1736435322:1;git status
+: 1736435457:1;git pull --rebase
+: 1736435928:0;cd ~/src
+: 1736436012:0;terraform apply -auto-approve
+: 1736436702:0;git push origin main
+: 1736436734:2;make -j8
+: 1736437539:2;git diff --staged
+: 1736438300:2;git status
+: 1736438549:0;curl -s http://127.0.0.1:8080/healthz
+: 1736439100:2;git commit -m "add tests"
+: 1736439824:2;git commit -m "cleanup"
+: 1736439941:1;git pull --rebase
+: 1736440638:0;git commit -m "wip"
+: 1736441151:0;git push origin main
+: 1736441850:1;npm run dev
+: 1736442022:2;npm run dev
+: 1736442669:0;git status
+: 1736442700:0;npm run dev
+: 1736443237:1;make -j8
+: 1736444129:1;kubectl get pods -n staging
+: 1736444318:0;true
+: 1736445107:1;env | sort
+: 1736445455:0;git status
+: 1736445813:0;git pull --rebase
+: 1736445884:2;git status
+: 1736446132:2;docker compose up -d
+: 1736446810:1;df -h
+: 1736447242:0;git pull --rebase
+: 1736447342:1;systemctl --user restart syncthing
+: 1736447816:2;git status
+: 1736448294:0;git status
+: 1736449191:1;git commit -m "handle edge case"
+: 1736449668:0;git push origin main
+: 1736449809:1;git log --oneline --graph --decorate
+: 1736450592:0;npm run dev
+: 1736450717:1;git diff --staged
+: 1736451159:0;make -j8
+: 1736451749:2;docker compose up -d
+: 1736451769:0;ssh deploy@example.test
+: 1736452599:2;git status
+: 1736453252:0;npm run dev
+: 1736453792:2;git status
+: 1736454023:1;terraform apply -auto-approve
+: 1736454392:0;kubectl get pods -n staging
+: 1736455257:0;cd ~/src
+: 1736456113:0;git status
+: 1736456997:1;ping 127.0.0.1
+: 1736457356:2;git pull --rebase
+: 1736458161:2;git diff --staged
+: 1736458795:1;npm run dev
+: 1736459548:0;npm run dev
+: 1736460301:1;git status
+: 1736460437:0;npm run dev
+: 1736461234:0;git status
+: 1736461256:0;git status
+: 1736461639:0;npm run dev
+: 1736462219:2;man rsync
+: 1736462621:0;git push origin main
+: 1736462687:0;git status
+: 1736463211:0;true
+: 1736464072:1;npm run dev
+: 1736464201:0;npm run test
+: 1736464846:0;git commit -m "cleanup"
+: 1736465058:0;git status
+: 1736465950:1;ping 127.0.0.1
+: 1736466190:1;clear
+: 1736467054:0;git status
+: 1736467807:0;env | sort
+: 1736467937:1;docker compose up -d
+: 1736468004:2;git log --oneline --graph --decorate
+: 1736468150:1;npm run test
+: 1736468638:2;git push origin main
+: 1736469174:0;npm run test
+: 1736469704:0;python3 -m http.server 8080
+: 1736470267:0;git commit -m "cleanup"
+: 1736470853:1;curl -s http://127.0.0.1:8080/healthz
+: 1736471731:2;ls
+: 1736472245:2;git push origin main
+: 1736473064:0;ssh deploy@example.test
+: 1736473792:2;git status

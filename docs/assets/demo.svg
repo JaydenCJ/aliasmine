@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620" font-family="Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14">
+  <!-- Terminal transcript of a real run of
+       `aliasmine scan examples/sample_zsh_history --top 6` followed by the
+       head of `aliasmine suggest`. Text is copied verbatim from an actual
+       execution against the bundled sample history. -->
+  <rect width="920" height="620" rx="10" fill="#0d1117"/>
+  <rect width="920" height="34" rx="10" fill="#161b22"/>
+  <rect y="20" width="920" height="14" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="17" r="6" fill="#febc2e"/>
+  <circle cx="62" cy="17" r="6" fill="#28c840"/>
+  <text x="460" y="22" fill="#8b949e" text-anchor="middle" font-size="12">aliasmine — you typed this 340 times</text>
+  <g fill="#c9d1d9">
+    <text x="24" y="62"><tspan fill="#7ee787">$</tspan> aliasmine scan examples/sample_zsh_history --top 6</text>
+    <text x="24" y="88"><tspan font-weight="bold">aliasmine</tspan> — mined 1,694 history entries from examples/sample_zsh_history (zsh)</text>
+    <text x="24" y="112">  unique commands                50</text>
+    <text x="24" y="134">  repeated long commands         45</text>
+    <text x="24" y="156">  keystrokes on repeats      26,926</text>
+    <text x="24" y="184" fill="#8b949e">   #   TIMES  COMMAND                               KEYSTROKES</text>
+    <text x="24" y="208">   1     <tspan fill="#79c0ff">340</tspan>  git status                                 3,400  <tspan fill="#7ee787">████████████</tspan></text>
+    <text x="24" y="230">   2     <tspan fill="#79c0ff">118</tspan>  git push origin main                       2,360  <tspan fill="#7ee787">████</tspan></text>
+    <text x="24" y="252">   3      <tspan fill="#79c0ff">87</tspan>  docker compose up -d                       1,740  <tspan fill="#7ee787">███</tspan></text>
+    <text x="24" y="274">   4     <tspan fill="#79c0ff">128</tspan>  docker compose +                           1,792  <tspan fill="#7ee787">█████</tspan></text>
+    <text x="24" y="296">   5      <tspan fill="#79c0ff">58</tspan>  kubectl get pods -n staging                1,566  <tspan fill="#7ee787">██</tspan></text>
+    <text x="24" y="318">   6      <tspan fill="#79c0ff">96</tspan>  git pull --rebase                          1,632  <tspan fill="#7ee787">███</tspan></text>
+    <text x="24" y="340" fill="#8b949e">      + = a common stem; the arguments after it vary</text>
+    <text x="24" y="370">You typed `git status` <tspan font-weight="bold" fill="#f0f6fc">340 times</tspan> — 3,400 keystrokes.</text>
+    <text x="24" y="392">Alias `gs` would have saved <tspan fill="#7ee787">2,720</tspan>.</text>
+    <text x="24" y="418" fill="#d29922">18 aliases proposed — 18,927 keystrokes (~1h 03m at 60 WPM).</text>
+    <text x="24" y="452"><tspan fill="#7ee787">$</tspan> aliasmine suggest examples/sample_zsh_history</text>
+    <text x="24" y="478" fill="#8b949e">  ALIAS   COMMAND                              TIMES  SAVES/USE   TOTAL</text>
+    <text x="24" y="500">  <tspan font-weight="bold" fill="#f0f6fc">gs</tspan>      git status                             340          8   <tspan fill="#7ee787">2,720</tspan></text>
+    <text x="24" y="522">  <tspan font-weight="bold" fill="#f0f6fc">gpom</tspan>    git push origin main                   118         16   <tspan fill="#7ee787">1,888</tspan></text>
+    <text x="24" y="544">  <tspan font-weight="bold" fill="#f0f6fc">dcud</tspan>    docker compose up -d                    87         16   <tspan fill="#7ee787">1,392</tspan></text>
+    <text x="24" y="566">  <tspan font-weight="bold" fill="#f0f6fc">kgpns</tspan>   kubectl get pods -n staging             58         22   <tspan fill="#7ee787">1,276</tspan></text>
+    <text x="24" y="592" fill="#8b949e">  … aliasmine export --format zsh &gt;&gt; ~/.zshrc</text>
+  </g>
+</svg>
